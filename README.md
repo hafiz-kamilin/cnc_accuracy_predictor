@@ -3,7 +3,7 @@
 ## Introduction
 
 <p align = "center">
-  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/cnc_accuracy_predictor/main/image/demo.jpg" width = "396" height = "462"/>
+  <img src = "https://raw.githubusercontent.com/hafiz-kamilin/cnc_accuracy_predictor/main/image/demo.jpg" width = "500" height = "462"/>
 </p>
 
 This simulation program work based on the premises that error rate of precise metalwork created with CNC machine influenced from the surrounding temperature, the number of time the CNC was used without being calibrated (or drill wears), and how complex the manufacturing command is.
